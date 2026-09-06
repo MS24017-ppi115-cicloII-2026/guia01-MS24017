@@ -1,0 +1,47 @@
+#ms24017 {
+    width: 450px;
+    margin: 60px auto;
+    padding: 35px;
+
+    background: linear-gradient(145deg, #0d1117, #161b22);
+    border: 1px solid #30363d;
+    border-radius: 8px;
+
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #c9d1d9;
+
+    box-shadow: 
+        0 4px 20px rgba(0, 0, 0, 0.4),
+        0 0 15px rgba(88, 166, 255, 0.1);
+}
+
+#ms24017 h2 {
+    text-align: center;
+    margin-bottom: 25px;
+
+    color: #58a6ff;
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: 600;
+
+    border-bottom: 1px solid #30363d;
+    padding-bottom: 15px;
+}
+
+#ms24017 h3 {
+    margin-top: 20px;
+    margin-bottom: 8px;
+
+    color: #8b949e;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+#ms24017 p {
+    color: #8b949e;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
