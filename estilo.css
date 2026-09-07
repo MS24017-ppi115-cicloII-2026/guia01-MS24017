@@ -3,28 +3,26 @@
     margin: 60px auto;
     padding: 35px;
 
-    background: linear-gradient(145deg, #0d1117, #161b22);
-    border: 1px solid #30363d;
+    background: #ffffff;
+    border: 3px solid #000000;
     border-radius: 8px;
 
     font-family: 'Segoe UI', Arial, sans-serif;
-    color: #c9d1d9;
+    color: #000000;
 
-    box-shadow: 
-        0 4px 20px rgba(0, 0, 0, 0.4),
-        0 0 15px rgba(88, 166, 255, 0.1);
+    box-shadow: 4px 4px 0px #000000;
 }
 
 #ms24017 h2 {
     text-align: center;
     margin-bottom: 25px;
 
-    color: #58a6ff;
+    color: #000000;
     font-size: 24px;
     letter-spacing: 1px;
-    font-weight: 600;
+    font-weight: 700;
 
-    border-bottom: 1px solid #30363d;
+    border-bottom: 2px solid #000000;
     padding-bottom: 15px;
 }
 
@@ -32,15 +30,15 @@
     margin-top: 20px;
     margin-bottom: 8px;
 
-    color: #8b949e;
+    color: #222222;
     font-size: 14px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 #ms24017 p {
-    color: #8b949e;
+    color: #333333;
     line-height: 1.6;
     margin-bottom: 15px;
     font-size: 15px;
