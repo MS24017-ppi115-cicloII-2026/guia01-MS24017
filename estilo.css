@@ -1,3 +1,4 @@
+
 #ms24017 {
     width: 450px;
     margin: 60px auto;
@@ -12,14 +13,6 @@
 
     box-shadow: 4px 4px 0px #000000;
    }
-   #MA24005{
-    background-color:#1e1e1e;
-    color:lime;
-    border:2px solid lime;
-    padding:20px;
-    border-radius:10px;
-   box-shadow:4px 4px 0px #000000;
-}
 
 #ms24017 h2 {
     text-align: center;
@@ -50,4 +43,12 @@
     line-height: 1.6;
     margin-bottom: 15px;
     font-size: 15px;
+}
+  #MA24005{
+    background-color:#1e1e1e;
+    color:lime;
+    border:2px solid lime;
+    padding:20px;
+    border-radius:10px;
+   box-shadow:4px 4px 0px #000000;
 }
